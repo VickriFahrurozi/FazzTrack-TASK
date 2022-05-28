@@ -112,7 +112,6 @@ let enter = prompt("\n\nPress Enter To Continue...")
 function nomor3()
 {
 const printSegitiga = prompt("Masukan Jumlah Baris = ")
-const a =printSegitiga
 let hasil;
 
   if(printSegitiga >0 )
